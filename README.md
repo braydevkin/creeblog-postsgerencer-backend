@@ -7,6 +7,7 @@ usuário todas as ferramentas que ele precisa para escrever um blog.
 ####  NodeJS - Backend
 #### ReactJS -  frontend
 #### Sweetalert22 - biblioteca de alertas personalizados
+#### MongoDB - banco de dados
 
 
 ## DELETE -  Comportamento no frontend
